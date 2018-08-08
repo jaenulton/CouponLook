@@ -1,0 +1,16 @@
+.stitches {
+   padding: 2px;
+   width: 396px;
+   margin: 20px;
+   background: #088;
+   color: #fff;
+   font-family: 'Permanent Marker', cursive;
+   font-size: 34px;
+   font-weight: bold;
+   line-height: 1.1em;
+   border: 4px dashed #fff;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px #088, 4px 4px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px #088;
+   font-weight: normal;
+}
